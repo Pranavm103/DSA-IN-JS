@@ -5,11 +5,11 @@ This repository contains Data Structures and Algorithms implementations and exam
 ## Lectures
 
 - Lecture 1
-- Lecture 5
+- Lecture 5 - Variables in JS
 - Lecture 6 - Conditionals
 - Lecture 7 - Conditionals Day-2
 - Lecture 8 - Loops
-- Lecture 9
+- Lecture 9 - Loops Day 2
 - Lecture 10 - Loops Day 3 & Scopes
 - Lecture 11 - Functions
 - Lecture 12 - Array Day-1
