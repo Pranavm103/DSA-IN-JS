@@ -14,6 +14,10 @@ This repository contains Data Structures and Algorithms implementations and exam
 - Lecture 11 - Functions
 - Lecture 12 - Array Day-1
 - Lecture 13 - Array Day-2
+- Lecture 14 - Lecture 14 - Nested Arrays
+- Lecture 15 - Nested Arrays Day 2
+- Lecture 16 - Objects
+- Lecture 17 - Objects | Strings
 
 ## How to Run
 
