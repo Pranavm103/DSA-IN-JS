@@ -18,3 +18,20 @@ for(let i =1 ; i<=N; i++){
     }
     console.log(num);
 }
+
+
+N = 5;
+let stars = "";
+for(let i = 0; i < N; i++) {
+    stars += "*";
+}
+console.log(stars);
+
+let M = 5;
+for(let i = 0; i < M; i++) {
+    let stars = "";
+    for(let j = 0; j < N - i; j++) {
+        stars += "*";
+    }
+    console.log(stars);
+}

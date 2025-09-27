@@ -92,7 +92,7 @@ we're able to change the value of it, as it's a non-primitive data type
 */
 const arr1 = [1, 2, 3, 4, 5];
 arr1[0] = 10;
-//arr1 = [23, 34, 56, 59]; // ❌ this is wrong, this violates the const constant property
+//arr1 = [23, 34, 56, 59]; //  this is wrong, this violates the const constant property
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 8];
 n = arr.length;
@@ -231,10 +231,10 @@ if (arr.includes(10)) {
 
 console.log(arr);
 
-function updateValue (arr,ooldValue, newValue){
-  if(arr.include(ooldValue)){
-    let oldvValueIndex = arr.indexOf(ooldValue);
-    arr[oldvValueIndex]= newValue;
+function updateValue (arr,oldValue, newValue){
+  if(arr.include(oldValue)){
+    let oldValueIndex = arr.indexOf(oldValue);
+    arr[oldValueIndex]= newValue;
     return true;
   }else return false;
 }
